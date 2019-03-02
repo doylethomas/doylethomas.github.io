@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Test Test test
+Dr. Thomas E. Doyle is an Associate Professor in the Department of Electrical and Computer Engineering, Faculty of Engineering, McMaster University.  Tom is Director of the McMaster eHealth Graduate Program, a member of the McMaster School of Biomedical Engineering, a faculty affiliate of the Vector Institute for Artificial Intelligence
+
+https://ehealth.mcmaster.ca/
