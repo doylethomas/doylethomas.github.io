@@ -15,9 +15,9 @@ Perhaps the best description of my research is derived from the term cybernetics
 
 <hr width="75%">
 
-For prospective graduate students
+Prospective graduate students
 
-I seek highly qualified students that are seeking research positions in machine and learning and AI in the field of biomedical engineering. Please check my research interests prior to contacting me. In the body of the email (no attachments or links), please include: 1) a brief statement of credentials with GPA, 2) a brief research statement that clearly states your area of interest and how that is related to my research interests. Due to the volume of emails I can only respond to potential candidates.  
+I seek highly qualified students that for research positions in machine and learning and AI in the field of biomedical engineering. Please check my research interests prior to contacting me. In the body of the email (no attachments or links), please include: 1) a brief statement of credentials with GPA, 2) a brief research statement that clearly states your area of interest and how that is related to my research interests. Due to the volume of emails I can only respond to potential candidates.  
 
 
 
