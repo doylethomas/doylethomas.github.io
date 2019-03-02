@@ -13,4 +13,12 @@ Dr. Thomas E. Doyle is an Associate Professor in the <a href="https://www.eng.mc
 Perhaps the best description of my research is derived from the term cybernetics, which was defined by Norbert Wiener as the study of communication and control in the animal and the machine. I believe that the focus of my work is best defined as cybranetics, or the study of communication and control between the animal and machine.
 
 
+For prospective graduate students
+
+I seek highly qualified students that are seeking research positions in machine and learning and AI in the field of biomedical engineering. Please check my research interests prior to contacting me. In the body of the email (no attachments or links), please include: 1) a brief statement of credentials with GPA, 2) a brief research statement that clearly states your area of interest and how that is related to my research interests. Due to the volume of emails I can only respond to potential candidates.  
+
+
+
+
+
 
