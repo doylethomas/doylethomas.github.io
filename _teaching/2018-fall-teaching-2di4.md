@@ -1,5 +1,5 @@
 ---
-title: "Digital Logic Design"
+title: "Digital Logic Design - Fall 2018"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching-2di4
@@ -8,13 +8,6 @@ date: 2018-09-01
 location: "Hamilton, Ontario, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Binary numbers and codes; Boolean algebra; combinational circuit design; electrical properties of logic circuits; sequential circuit design; computer arithmetic; programmable logic; CPU organization and design.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Syllabus: <a href="https://www.eng.mcmaster.ca/sites/default/files/compeng_2di4_c01c02_outline_2189.pdf"> Computer Engineering 2DI4 </a> 
