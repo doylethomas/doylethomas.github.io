@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thomas E. Doyle"
   avatar           : "2N8A8961 small.jpg"
-  bio              : "Machine Learning, AI, and Embedded Systems for Health Systems; <a href="https://www.eng.mcmaster.ca/ece/people/faculty/thomas-e-doyle">Associate Professor Dept. Elec. & Comp Engineering</a>"
+  bio              : "Machine Learning, AI, and Embedded Systems for Health Systems; <a href="https://www.eng.mcmaster.ca/ece/people/faculty/thomas-e-doyle/">Associate Professor Dept. Elec. & Comp Engineering</a>"
   location         : "Hamilton, Ontario"
   employer         : "McMaster University"
   pubmed           : 
