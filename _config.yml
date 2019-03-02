@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Thomas E. Doyle, Ph.D., P.Eng."
+title                    : "Dr. Thomas E. Doyle"
 title_separator          : "-"
 name                     : &name "Thomas E. Doyle"
 description              : &description "personal description"
