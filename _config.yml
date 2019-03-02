@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Thomas E. Doyle"
   avatar           : "2N8A8961 small.jpg"
-  bio              : "Dept. Elec. & Comp Engineering"
+  bio              : "Machine Learning, AI, and Embedded Systems for Health Systems; Associate Professor Dept. Elec. & Comp Engineering"
   location         : "Hamilton, Ontario"
   employer         : "McMaster University"
   pubmed           : 
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tomdoyle/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -180,10 +180,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: flase
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
