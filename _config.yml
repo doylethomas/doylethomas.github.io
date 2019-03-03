@@ -179,8 +179,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: flase
+  research:
+    output: flase 
     permalink: /:collection/:path/
   talks:
     output: false
