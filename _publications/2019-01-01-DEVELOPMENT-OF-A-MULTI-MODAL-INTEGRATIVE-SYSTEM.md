@@ -1,7 +1,7 @@
 ---
 title: "Development of a Multi-Modal Integrative System to Analyze Cognitive Load and Team Dynamics During Medical Event Management on Simulated Long-Duration Space Missions"
 collection: publications
-permalink: /publication/2019-01-01-poster-DEVELOPMENT-OF-A-MULTI-MODAL-INTEGRATIVE-SYSTEM-TO-ANALYZE-COGNITIVE-LOAD-AND-TEAM-DYNAMICS-DURING-MEDICAL-EVENT-MANAGEMENT-ON-SIMULATED-LONG-DURATION-SPACE-MISSIONS
+permalink: /publication/2019-01-01-DEVELOPMENT-OF-A-MULTI-MODAL-INTEGRATIVE-SYSTEM
 excerpt: 'This poster is about an immersive spacecraft simulator medical event management.'
 date: 2019-01-01
 venue: 'NASA Human Research Program Investigators Workshop'
