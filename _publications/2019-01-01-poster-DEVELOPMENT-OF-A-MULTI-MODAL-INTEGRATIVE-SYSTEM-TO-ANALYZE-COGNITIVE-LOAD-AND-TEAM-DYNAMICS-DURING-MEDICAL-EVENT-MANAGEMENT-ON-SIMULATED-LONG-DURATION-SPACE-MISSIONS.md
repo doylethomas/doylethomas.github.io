@@ -2,7 +2,7 @@
 title: "Development of a Multi-Modal Integrative System to Analyze Cognitive Load and Team Dynamics During Medical Event Management on SImulated Long-Duration Space Missions"
 collection: publications
 permalink: /publication/2019-01-01-poster-DEVELOPMENT-OF-A-MULTI-MODAL-INTEGRATIVE-SYSTEM-TO-ANALYZE-COGNITIVE-LOAD-AND-TEAM-DYNAMICS-DURING-MEDICAL-EVENT-MANAGEMENT-ON-SIMULATED-LONG-DURATION-SPACE-MISSIONS
-excerpt: 'This poster is about an immersive spacecraft simulator for the investigation of team behaviors and performance during simulated in-flight medical event management.'
+excerpt: 'This poster is about an immersive spacecraft simulator for team behaviors and performance during medical event management.'
 date: 2019-01-01
 venue: 'NASA Human Research Program Investigators Workshop'
 paperurl: 'https://www.researchgate.net/publication/330764778_DEVELOPMENT_OF_A_MULTI-MODAL_INTEGRATIVE_SYSTEM_TO_ANALYZE_COGNITIVE_LOAD_AND_TEAM_DYNAMICS_DURING_MEDICAL_EVENT_MANAGEMENT_ON_SIMULATED_LONG-DURATION_SPACE_MISSIONS'
