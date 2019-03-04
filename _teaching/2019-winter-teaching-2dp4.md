@@ -11,5 +11,5 @@ location: "Hamilton, Ontario, Canada"
 Introduction to computer organizations; algorithmic state machine design; micro processor based system design including memory and peripheral interfaces; interrupt systems; software development tools; machine-level coding and programming.
 Three lectures, one tutorial, one lab every other week; second term
 
-<a href="https://www.eng.mcmaster.ca/sites/default/files/compeng_2dp4_c01c02_w2019.pdf">Syllabus</a>
+Syllabus:<a href="https://www.eng.mcmaster.ca/sites/default/files/compeng_2dp4_c01c02_w2019.pdf">Computer Engineering 2DP4</a>
 
